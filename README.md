@@ -1,2 +1,2 @@
 # fun-stuff
-A repo of a bunch of CTFs I did
+A repo for fun stuff, like CTFs that I did.
